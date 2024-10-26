@@ -19,10 +19,10 @@
 - **Backend:**
   - API propia de vuelos.
 
-![Se busca la ciudad origen y destino, junto con su fecha programada y numero de personas](img/BusquedaCiudades.png)
+Se busca la ciudad origen y destino, junto con su fecha programada y numero de personas ![Imagen que indica la busqueda de ciudad origen y destino](img/BusquedaCiudades.png)
 
-![Cargan los vuelos segun la informacion anterior](img/CargaVuelos.png)  
+Cargan los vuelos segun la informacion anterior ![imagen con los vuelos disponibles](img/CargaVuelos.png)  
 
-![Al darle click en comprar se muestran los detalles del vuelo](img/InformacionVuelos.png)
+Al darle click en comprar se muestran los detalles del vuelo ![Imagen con los detalles del vuelo](img/InformacionVuelos.png)
 
-![Al darle pagar abrira otra ventana emergente con toda la informacion y recibo de pago](img/ReciboFinal.png)
+Al darle pagar abrira otra ventana emergente con toda la informacion y recibo de pago ![imagen de popup con la informacion y recibo de pago](img/ReciboFinal.png)
