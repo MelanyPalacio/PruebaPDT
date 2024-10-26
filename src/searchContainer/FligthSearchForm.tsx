@@ -16,6 +16,7 @@ import { LocalizationProvider, DatePicker } from '@mui/x-date-pickers';
 import {es} from 'date-fns/locale/es';  
 import CityAutocomplete from './CityAutocomplete';
 import PassengerSelector from './PassengerSelector';
+import FlightList from '../Flights/FlightList';
 
 const FlightSearchForm = () => {
   const [searchData, setSearchData] = useState({
@@ -96,6 +97,7 @@ const FlightSearchForm = () => {
                     Buscar Vuelos
                   </Button>
                 </Box>
+                <FlightList searchData={searchData} />
               </Grid>
             </Grid>
           </Box>
